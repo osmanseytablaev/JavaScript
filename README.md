@@ -1,2 +1,2 @@
-# canvas-fly-bee
+# JavaScript
 JavaScript
